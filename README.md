@@ -25,9 +25,9 @@ It translates text into any language by calling a Groq LLM through a LangChain r
 
 ### 1. Clone the Repository
 
-```
-git clone https://github.com/<your-username>/Langchain-Groq-Translator.git
-cd Langchain-Groq-Translator
+```bash
+git clone https://github.com/sush-sp777/Langchain-Groq-API.git
+cd Langchain-Groq-API
 ```
 
 ### 2. Install Requirements
